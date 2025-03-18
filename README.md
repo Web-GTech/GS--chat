@@ -1,2 +1,2 @@
-# GS--chat
+# GS-chat
 web chat feito com websockt
